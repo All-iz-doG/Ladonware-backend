@@ -40,7 +40,7 @@ php artisan key:generate
 lando start
 ```
 
-5. Entramos a la ruta de phpmyadmin que nos genera lando y creamos una base de datos con el nombre LADONWARE
+5. Entramos a la ruta de phpmyadmin que nos genera lando y creamos una base de datos con el nombre ladonware
 
 6. ejecutamos el siguiente comando
 
