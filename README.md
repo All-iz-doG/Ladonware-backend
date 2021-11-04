@@ -27,7 +27,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
 ## Instalación
 
 1. Una vez contemos con Lando abrimos el proyecto en nuestro IDE
-2. Buscamos el .env.example y creamos un .env basandonos en la copia
+2. Buscamos el .env.example y creamos un .env basandonos en el .example
 3. Ejecutamos en Consola el siguiente comando:
 
 ```bash
