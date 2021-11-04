@@ -40,4 +40,12 @@ php artisan key:generate
 lando start
 ```
 
-5. Listo! el servidor deberia estar funcionando con normalidad.
+5. Entramos a la ruta de phpmyadmin que nos genera lando y creamos una base de datos con el nombre LADONWARE
+
+6. ejecutamos el siguiente comando
+
+```bash
+lando artisan migrate
+```
+
+7. Listo! el servidor deberia estar funcionando con normalidad.
